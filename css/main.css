@@ -588,11 +588,12 @@ time {
 }
 
 html {
-    font-family: Asap, sans-serif;
-    font-size: calc(1em + 0.5vw);
-    color: #222;
-    line-height: 1.5;
-    background: #fefefe;
+  font-family: "Seguoe UI", arial, sans-serif;
+  font-size: calc(1em + 0.5vw);
+  color: #010101;
+  line-height: 1.5;
+  /*background: #fefefe;*/
+  background: #fff5cd;
 }
 
 * + * {
@@ -860,12 +861,11 @@ ul.inline li {
 }
 
 .book {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border-top: 2px dashed;
-    border-bottom: 2px dashed;
-    padding: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid;
+  padding: 1.5rem 0;
 }
 
 .book img {
