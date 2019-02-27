@@ -864,8 +864,8 @@ ul.inline li {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border: 2px solid;
-  padding: 1.5rem 0;
+  border: 4px solid;
+  padding: 1rem;
 }
 
 .book img {
