@@ -519,7 +519,7 @@ main {
     padding-top: 1.5rem;
 }
 
-time {
+.post-date {
     font-family: monospace;
     margin-top: 0;
 }
@@ -754,7 +754,7 @@ header svg {
     margin-top: 1.5rem;
 }
 
-time {
+.post-date {
     font-family: monospace;
     margin-top: 0;
 }
