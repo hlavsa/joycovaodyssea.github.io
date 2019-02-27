@@ -878,6 +878,10 @@ ul.inline li {
   A11Y Tool Tips
 
 --------------------------------------------------------------------- */
+.a11y-tip {
+  margin-top: 0;
+}
+
 .js .a11y-tip__help,
 .no-js [role="tooltip"].a11y-tip__help, .js .a11y-tip__help:after,
 .no-js [role="tooltip"].a11y-tip__help:after {
