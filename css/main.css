@@ -316,11 +316,6 @@ a {
 }
 
 h1 {
-    font-family: Miriam Libre, serif;
-    line-height: 1.1;
-}
-
-h1 {
     font-size: 3rem;
 }
 
@@ -349,7 +344,6 @@ nav ul {
 
 [aria-label='site'] li:first-child a {
     border: 0;
-    font-family: Miriam Libre, serif;
 }
 
 header {
@@ -455,7 +449,6 @@ a {
 
 h2,
 h3 {
-    font-family: Miriam Libre, serif;
     line-height: 1.1;
 }
 
@@ -636,7 +629,6 @@ a {
 h1,
 h2,
 h3 {
-    font-family: Miriam Libre, serif;
     line-height: 1.1;
 }
 
@@ -732,7 +724,6 @@ nav h3 {
 
 [aria-label='site'] li:first-child a {
     border: 0;
-    font-family: Miriam Libre, serif;
 }
 
 header {
